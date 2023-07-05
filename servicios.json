@@ -1,0 +1,59 @@
+[
+
+  {
+     "id":"med-familiar",
+     "titulo":"Mediación familiar",
+     "imagen": "./img/Mediación/familia.jpg",
+     "categoria": {
+      "nombre":"mediaciones",
+      "id":"mediación familiar"
+    },
+    "precio": 200000
+
+},
+
+{
+    "id": "med-escolar",
+    "titulo": "Mediación Escolar",
+    "imagen": "./img/Mediación/escolar.jpg",
+    "categoria": {
+        "nombre": "mediaciones",
+        "id": "mediación escolar"
+    },
+    "precio": 150000
+},
+
+{
+    "id": "med-laboral",
+    "titulo": "Mediación Laboral",
+    "imagen": "./img/Mediación/trabajador.jpg",
+    "categoria": {
+        "nombre": "mediaciones",
+        "id": "mediación laboral"
+    },
+    "precio": 150000
+},
+
+{
+    "id": "Asesoría",
+    "titulo": "Asesoría para condominios",
+    "imagen": "./img/Asesorias/condominio.jpg",
+    "categoria": {
+        "nombre": "asesoría legal",
+        "id": "asesoria condominio"
+    },
+    "precio": 200000
+},
+
+{
+    "id": "civil",
+    "titulo": "Litigación Civil",
+    "imagen": "./img/Asesorias/civil.jpg",
+    "categoria": {
+        "nombre": "litigación civil",
+        "id": "lit civil"
+    },
+    "precio": 200000
+}    
+    
+]
